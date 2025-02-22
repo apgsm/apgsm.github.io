@@ -11,14 +11,17 @@
             padding: 20px;
         }
         header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
             background: linear-gradient(to right, #00f, #f0f);
             color: white;
             padding: 10px 0;
-            text-align: center;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         h1 {
             color: #333;
+            margin: 0;
         }
         p {
             color: #666;
@@ -41,10 +44,15 @@
             bottom: 0;
             width: 100%;
         }
+        .logo {
+            height: 50px;
+            margin-left: 20px;
+        }
     </style>
 </head>
 <body>
     <header>
+        <img src="logo.jpg" alt="Logo" class="logo">
         <h1>欢迎来到阿裴搞数码官方网站！</h1>
     </header>
     <div class="container">
