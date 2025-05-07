@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>https://apgsm.dpdns.org/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-05-07</lastmod>
+ <changefreq>hourly</changefreq>
+</url>
+
+<url>
+ <loc>https://apgsm.dpdns.org/archive.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-05-07</lastmod>
+ <changefreq>hourly</changefreq>
+</url>
+
+<url>
+ <loc>https://apgsm.dpdns.org/about.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-05-07</lastmod>
+ <changefreq>hourly</changefreq>
+</url>
+
+<url>
+ <loc>https://apgsm.dpdns.org/friends.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-05-07</lastmod>
+ <changefreq>hourly</changefreq>
+</url>
+
+<url>
+ <loc>https://apgsm.dpdns.org/categories/Windows教程</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-05-07</lastmod>
+ <changefreq>hourly</changefreq>
+</url>
+
+<url>
+ <loc>https://apgsm.dpdns.org/tags/Windows11</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-05-07</lastmod>
+ <changefreq>hourly</changefreq>
+</url>
+
+<url>
+ <loc>https://apgsm.dpdns.org/tags/%E5%8D%87%E7%BA%A7Windows</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-05-07</lastmod>
+ <changefreq>hourly</changefreq>
+</url>
+
+<url>
+ <loc>https://apgsm.dpdns.org/tags/%E5%BE%AE%E8%BD%AF%E8%B4%A6%E6%88%B7</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-05-07</lastmod>
+ <changefreq>hourly</changefreq>
+</url>
+
+<url>
+ <loc>https://apgsm.dpdns.org/archives/2025</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-05-07</lastmod>
+ <changefreq>hourly</changefreq>
+</url>
+
+<url>
+ <loc>https://apgsm.dpdns.org/2025/05/07/%E7%BB%95%E8%BF%87%E9%99%90%E5%88%B6%E5%8D%87%E7%BA%A7Win11</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-05-07</lastmod>
+ <changefreq>hourly</changefreq>
+</url>
+
+<url>
+ <loc>https://apgsm.dpdns.org/2025/04/28/Win11%E8%B7%B3%E8%BF%87%E8%81%94%E7%BD%91%E5%92%8C%E5%BE%AE%E8%BD%AF%E8%B4%A6%E6%88%B7%E7%99%BB%E5%BD%95</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-05-07</lastmod>
+ <changefreq>hourly</changefreq>
+</url>
+
+</urlset>
